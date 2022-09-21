@@ -1,0 +1,111 @@
+.Login-page{
+    background-color:  #F2F2F2;
+    min-height: 100vh;
+   
+    
+}
+
+.Header{
+    padding-top: 100px;
+    padding-left: 470px; 
+    display: flex;
+    
+    
+    
+}
+
+.H-name{
+width: 362px;
+height: 74px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 74px;
+color: #464646;
+
+
+}
+
+.login{
+top: 120px;
+width: 500px;
+height: 511px;
+position: relative;
+left: 34.17%;
+right: 34.17%;
+top: 31.64%;
+bottom: 18.46%;
+
+background: #FFFFFF;
+border-radius: 19px;
+}
+
+.name{
+    position: absolute;
+left: 10.09%;
+right: 10.31%;
+top: 17.42%;
+bottom: 69.86%;
+
+background: #F2F2F2;
+border-radius: 14px;
+border: none;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+}
+
+.email{
+    
+position: absolute;
+left: 10.09%;
+right: 10.31%;
+top: 41.29%;
+bottom: 45.99%;
+
+background: #F2F2F2;
+border-radius: 14px;
+border: none;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #8B8B8B;
+}
+
+.submit-btn{
+    position: absolute;
+left: 28.07%;
+right: 27.85%;
+top: 68.88%;
+bottom: 19.18%;
+
+background: #F87000;
+border-radius: 14px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+border: none;
+}
+
+.submit-btn:hover{
+    cursor: pointer;
+}
